@@ -42,7 +42,7 @@ $config->useMarkupRegions = true;
 $config->prependTemplateFile = '_init.php';
 $config->appendTemplateFile = '_main.php';
 $config->templateCompile = false;
-$config->tableSalt = 'c8700bdc6c461abf03a3dd0652d769016665e6bd'; 
+$config->tableSalt = '93b16400a33b192b000d34b1f83d285dda9cb1e1'; 
 $config->defaultAdminTheme = 'AdminThemeUikit';
 $config->livereload = 1;
 
