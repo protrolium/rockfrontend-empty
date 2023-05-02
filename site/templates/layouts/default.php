@@ -1,1 +1,0 @@
-<?= $rockfrontend->renderIf("sections/default-page.latte", "template=default-page") ?>
